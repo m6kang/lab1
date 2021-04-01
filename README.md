@@ -1,2 +1,2 @@
 Minsung's User Page
-Java 
+Java
