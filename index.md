@@ -1,6 +1,7 @@
 #User Page
 **Picture**
-![Alt text](https://www.instagram.com/p/CFwBaJ-gmtQJ8xOfBWAz2AadeqJ0oZLHKGji4s0/)
+![Alt text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fregmedia.co.uk%2F2013%2F01%2F30%2Fjava_logo.jpg%3Fx%3D442%26y%3D293%26crop%3D1&f=1&nofb=1)
+
 My favorite programming language is
 >Java
 
