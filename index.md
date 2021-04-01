@@ -1,9 +1,10 @@
-#User Page
-**Picture**
+# User Page
+**My favorite programming language is**
+>Java
+
 ![Alt text](https://analyticsindiamag.com/wp-content/uploads/2018/05/JAVA.jpg)
 
-My favorite programming language is
->Java
+
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 Some basic Git commands are:
